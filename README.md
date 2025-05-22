@@ -1,4 +1,4 @@
-# Ex-06-EC2 Instance Creation
+# Ex-04-EC2 Instance Creation
 
 ### Name: karthick P
 ### Register Number : 212222100021
